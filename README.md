@@ -43,7 +43,6 @@ cypress.env.json # Local-only environment variables (not committed)
 ## 🔑 Environment Variables
 
 All secrets are managed via `cypress.env.json` (ignored from git).  
-**Do not commit real credentials.** Replace with dummy values if you need to share your project.
 
 Example `cypress.env.json` (dummy data):
 
