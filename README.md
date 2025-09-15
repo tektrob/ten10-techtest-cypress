@@ -9,6 +9,16 @@ This folder contains Cypress end-to-end tests for the **Ten10TechTest Interest C
 Each feature from the product requirements has been mapped to a dedicated test spec for clarity and maintainability.
 
 ---
+# Getting Started
+---
+1. Clone the repo
+```text
+git clone https://github.com/tektrob/ten10-techtest-cypress.git
+```
+2. Install dependencies
+```text
+npm ci
+```
 
 ## 📂 Folder Structure
 ```text
