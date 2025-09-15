@@ -1,7 +1,7 @@
 
 # Boris Bonev Test
 
-A brief description of what this project does and who it's for
+A brief description of what this project does
 
 # Ten10TechTest – Cypress E2E Tests
 
