@@ -11,7 +11,7 @@ Each feature from the product requirements has been mapped to a dedicated test s
 ---
 
 ## 📂 Folder Structure
-```json
+```text
 cypress/e2e/
 01_duration_options.cy.js # Duration options (Daily, Monthly, Yearly)
 02_principle_amount.cy.js # Principal amount input
